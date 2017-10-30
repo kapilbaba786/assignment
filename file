@@ -2,8 +2,8 @@
 voidmain()
 {
 int a,b,c,d;
-a=b-c;
-d=b+c;
+a=b+c;
+d=b-c;
 printf("%d",a);
 }
 
