@@ -1,9 +1,12 @@
 #include<stdio.h>
 voidmain()
 {
-int a,b,c,d;
+
+int a,b,c,d,e,f;
 a=b+c;
 d=b-c;
+e==a;
+d==f;
 printf("%d",a);
 }
 
